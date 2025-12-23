@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Computer Terms</title>
+</head>
+<body>
+
+<h2>Computer Terms</h2>
+
+<dl>
+    <dt>CPU</dt>
+    <dd>Central Processing Unit</dd>
+
+    <dt>RAM</dt>
+    <dd>Random Access Memory</dd>
+
+    <dt>ROM</dt>
+    <dd>Read Only Memory</dd>
+</dl>
+
+</body>
+</html>

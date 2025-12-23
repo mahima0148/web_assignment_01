@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>College Labs</title>
+</head>
+<body>
+
+<h2>Laboratory Details</h2>
+
+<ol>
+    <li>Computer Labs
+        <ul>
+            <li>C Lab</li>
+            <li>Python Lab</li>
+        </ul>
+    </li>
+
+    <li>Science Labs
+        <ul>
+            <li>Physics Lab</li>
+            <li>Chemistry Lab</li>
+        </ul>
+    </li>
+</ol>
+
+</body>
+</html>

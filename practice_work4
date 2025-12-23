@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shopping List</title>
+</head>
+<body>
+
+<h2>Shopping Items</h2>
+
+<ul>
+    <li>Milk</li>
+    <li>Bread</li>
+    <li>Fruits</li>
+    <li>Vegetables</li>
+</ul>
+
+</body>
+</html>
