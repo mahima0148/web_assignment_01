@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Course Enrollment</title>
+</head>
+<body>
+<h2 align="center">Course Enrollment Form</h2>
+<form>
+<table border="1" cellpadding="8" align="center">
+<tr><td>Student Name</td><td><input type="text"></td></tr>
+<tr><td>Course</td><td><input type="text"></td></tr>
+<tr><td colspan="2" align="center"><input type="submit"></td></tr>
+</table>
+</form>
+</body>
+</html>
