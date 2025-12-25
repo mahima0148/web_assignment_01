@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Feedback Form</title>
+</head>
+
+<body>
+
+<h2 align="center">Feedback Form</h2>
+
+<form>
+
+<table border="1" cellpadding="8" align="center">
+
+<tr>
+    <td>Name</td>
+    <td><input type="text"></td>
+</tr>
+
+<tr>
+    <td>Email</td>
+    <td><input type="email"></td>
+</tr>
+
+<tr>
+    <td>Rating</td>
+    <td>
+        <select>
+            <option>Excellent</option>
+            <option>Good</option>
+            <option>Average</option>
+        </select>
+    </td>
+</tr>
+
+<tr>
+    <td>Comments</td>
+    <td><textarea></textarea></td>
+</tr>
+
+<tr>
+    <td colspan="2" align="center">
+        <input type="submit">
+        <input type="reset">
+    </td>
+</tr>
+
+</table>
+
+</form>
+
+</body>
+</html>
