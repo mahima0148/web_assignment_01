@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Registration</title>
+</head>
+
+<body>
+
+<h2 align="center">Employee Registration Form</h2>
+
+<form>
+
+<table border="1" cellpadding="8" align="center">
+
+<tr>
+    <td>Employee Name</td>
+    <td><input type="text"></td>
+</tr>
+
+<tr>
+    <td>Employee ID</td>
+    <td><input type="text"></td>
+</tr>
+
+<tr>
+    <td>Department</td>
+    <td>
+        <select>
+            <option>HR</option>
+            <option>IT</option>
+            <option>Sales</option>
+        </select>
+    </td>
+</tr>
+
+<tr>
+    <td>Gender</td>
+    <td>
+        <input type="radio" name="g">Male
+        <input type="radio" name="g">Female
+    </td>
+</tr>
+
+<tr>
+    <td colspan="2" align="center">
+        <input type="submit">
+        <input type="reset">
+    </td>
+</tr>
+
+</table>
+
+</form>
+
+</body>
+</html>
